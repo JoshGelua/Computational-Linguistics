@@ -31,3 +31,7 @@ Problem Set 3 (3.3 cancelled):
 GPA received: 4.0
 
 For further questions, email me at josh.gelua@mail.utoronto.ca
+Special thanks to Professor Suzanne Stevenson (Department of Computer Science, UofT) and Julia Watson (TA, Department of Computer Science) for curating this course. Credit for the supplementary provided functions goes to them.
+
+Here's a link to Prof. Stevenson's website for her bio and publications:
+http://www.cs.toronto.edu/~suzanne/
