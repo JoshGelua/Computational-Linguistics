@@ -3,7 +3,7 @@
 
 In this repo, I apply various statistical methods (Bayesian) and neural networks in Python to analyze and examine relevant topics within computational linguistics. This was part of a 400-level course designed for us to engage in interdisciplinary methods to investigate linguistic phenomena. 
 
-Each problem set includes an .ipynb file that can only be opened and run on Jupyter Notebook. The following is the topic of each problem set:
+Each problem set includes an .ipynb file that can be opened by Github, but can only run on Jupyter Notebook. The following is the topic of each problem set:
 
 Problem Set 1:
 
@@ -21,7 +21,7 @@ Problem Set 2:
 
 2.3 - Noun Classes in Tsez
 
-Problem Set 3 (3.3 was cancelled):
+Problem Set 3 (3.3 cancelled):
 
 3.1 - Cross-linguistic Color Representations
 
