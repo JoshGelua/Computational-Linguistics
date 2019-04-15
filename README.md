@@ -27,4 +27,7 @@ Problem Set 3 (3.3 cancelled):
 
 3.2 - Bilingual Semantic Networks
 
+
+GPA received: 4.0
+
 For further questions, email me at josh.gelua@mail.utoronto.ca
